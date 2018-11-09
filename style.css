@@ -1,0 +1,22 @@
+.bg-image{
+  background-image: url("images/stylus.jpg");    
+  height: 100vh;
+  width:auto;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.songs{
+    height: 85vh;
+    overflow: scroll;
+}
+
+.cardpadding{
+  margin: 5px;
+}
+
+.card{
+  background-color: blue;
+}
+
